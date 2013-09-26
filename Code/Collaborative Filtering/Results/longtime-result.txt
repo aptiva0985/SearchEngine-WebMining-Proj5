@@ -1,0 +1,42 @@
+user-user rating start!
+user-user rating finish!
+Total running time is 1501171ms
+Finished!
+
+RMSE results:
+0.993205274839
+
+
+movie-movie rating start!
+movie-movie rating finish!
+Total running time is 728685ms
+Finished!
+
+RMSE results:
+
+1.08040184472
+
+
+user-user normalized rating start!
+user-user normalized rating finish!
+Total running time is 1181056ms
+Finished!
+
+RMSE results:
+
+0.996104763484
+
+
+custom rating start!
+custom rating finish!
+Total running time is 1585786ms
+Finished!
+
+RMSE results:
+
+0.977916979465
+
+
+
+
+
